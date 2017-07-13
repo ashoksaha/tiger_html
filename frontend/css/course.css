@@ -1,0 +1,151 @@
+
+.main_nav_wrap{
+	background-color:#512da8;
+}
+/*header css*/
+nav.navbar-findcond { background: #fff; border-color: #ccc; box-shadow: 0 0 2px 0 #ccc; padding-bottom:10px; padding-top:5px; }
+nav.navbar-findcond a { color: #ccc; }
+nav.navbar-findcond ul.navbar-nav a { color: #2e2e2e; border-style: solid; border-width: 0 0 2px 0; border-color: #fff; }
+nav.navbar-findcond ul.navbar-nav a:hover,
+nav.navbar-findcond ul.navbar-nav a:visited,
+nav.navbar-findcond ul.navbar-nav a:focus,
+nav.navbar-findcond ul.navbar-nav a:active { background: #fff; }
+nav.navbar-findcond ul.navbar-nav a:hover { border-color: #08669a; }
+nav.navbar-findcond li.divider { background: #ccc; }
+nav.navbar-findcond button.navbar-toggle { background: #005191; border-radius: 2px; }
+nav.navbar-findcond button.navbar-toggle:hover { background: #999; }
+nav.navbar-findcond button.navbar-toggle > span.icon-bar { background: #fff; }
+nav.navbar-findcond ul.dropdown-menu { border: 0; background: #fff; border-radius: 4px; margin: 4px 0; box-shadow: 0 0 4px 0 #ccc; }
+nav.navbar-findcond ul.dropdown-menu > li > a { color: #444; }
+nav.navbar-findcond ul.dropdown-menu > li > a:hover { background: #055886; color: #fff; }
+nav.navbar-findcond span.badge { background: #005191; font-weight: normal; font-size: 11px; margin: 0 4px; }
+nav.navbar-findcond span.badge.new { background: rgba(255, 0, 0, 0.8); color: #fff; }
+
+/*tab banner slider*/
+.course_banner{
+	background:#551A8B;
+	margin-top:68px;
+}
+.course_banner >h2{
+	color:#fff;
+	font-size:24px;
+	font-weight:normal;
+	word-spacing:3px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.course_banner > p{
+		color:#fff;
+		padding-bottom:30px;
+		padding-top:10px;
+}
+.course_banner ul{
+	list-style:none;
+	margin:0;
+}
+.course_banner ul li{
+	display:inline;
+	background:#fff;
+	padding:10px;
+}
+.course_banner ul li :hover{
+	border-bottom:2px solid  #551A8B;
+}
+.course_banner ul li a{
+		padding:10px;
+		text-decoration:none;
+}
+
+.course_wrap{
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:10px;
+}
+*/
+.cont1 > .box1{
+	width:99%;
+	background:#fff;
+	margin-top:10px;
+	margin-bottom:10px;
+	 box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease-in-out;
+}
+.mentor_name{
+	margin:0;
+	font-size:13px;
+	font-weight:bold;
+	color:#000;
+}
+
+
+.content_part{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	padding:10px;
+	background:#ffffff;
+	padding:20px;
+}
+.div_1{
+	width:18%;
+	background:white;
+	float:left;
+	margin-left:1%;
+	margin-top:10px;
+}
+.div_2{
+	width:18%;
+	background:white;
+	margin-left:2%;
+	float:left;
+	margin-top:10px;
+}
+.course_name{
+	font-size:15px;
+	color:#000;
+	color:#2e2e2e;
+	padding-left:10px;
+
+}
+.mentor_name{
+	margin:0;
+	font-size:12px;
+	font-weight:bold;
+	padding-left:10px;
+}
+.star_rate{
+	padding-left:10px;
+}
+.price_tag{
+	padding-left:10px;
+	font-size:20px;
+}
+.course_heading{
+	padding-left:10px;
+	margin:0;
+}
+.content_part1{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	padding:10px;
+	background:#ffffff;
+	padding:20px;
+	margin-top:20px;
+}
+.content_part2{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	padding:10px;
+	background:#ffffff;
+	padding:20px;
+	margin-top:20px;
+}
+
+
+
+
